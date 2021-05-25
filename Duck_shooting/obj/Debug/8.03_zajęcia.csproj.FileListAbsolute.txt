@@ -1,0 +1,10 @@
+C:\Users\User\Politechnika_4sem\Informatyka\8.03_zajęcia\bin\Debug\8.03_zajęcia.exe.config
+C:\Users\User\Politechnika_4sem\Informatyka\8.03_zajęcia\bin\Debug\8.03_zajęcia.exe
+C:\Users\User\Politechnika_4sem\Informatyka\8.03_zajęcia\bin\Debug\8.03_zajęcia.pdb
+C:\Users\User\Politechnika_4sem\Informatyka\8.03_zajęcia\obj\Debug\8.03_zajęcia.csprojAssemblyReference.cache
+C:\Users\User\Politechnika_4sem\Informatyka\8.03_zajęcia\obj\Debug\_8._03_zajęcia.Form1.resources
+C:\Users\User\Politechnika_4sem\Informatyka\8.03_zajęcia\obj\Debug\_8._03_zajęcia.Properties.Resources.resources
+C:\Users\User\Politechnika_4sem\Informatyka\8.03_zajęcia\obj\Debug\8.03_zajęcia.csproj.GenerateResource.cache
+C:\Users\User\Politechnika_4sem\Informatyka\8.03_zajęcia\obj\Debug\8.03_zajęcia.csproj.CoreCompileInputs.cache
+C:\Users\User\Politechnika_4sem\Informatyka\8.03_zajęcia\obj\Debug\8.03_zajęcia.exe
+C:\Users\User\Politechnika_4sem\Informatyka\8.03_zajęcia\obj\Debug\8.03_zajęcia.pdb
