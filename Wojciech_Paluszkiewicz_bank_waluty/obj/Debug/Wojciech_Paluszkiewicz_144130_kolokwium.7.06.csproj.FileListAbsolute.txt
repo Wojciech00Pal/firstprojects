@@ -1,0 +1,15 @@
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\obj\Debug\Wojciech_Paluszkiewicz_144130_kolokwium.7.06.csprojAssemblyReference.cache
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\obj\Debug\Wojciech_Paluszkiewicz_144130_kolokwium._7._06.Form1.resources
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\obj\Debug\Wojciech_Paluszkiewicz_144130_kolokwium._7._06.Properties.Resources.resources
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\obj\Debug\Wojciech_Paluszkiewicz_144130_kolokwium.7.06.csproj.GenerateResource.cache
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\obj\Debug\Wojciech_Paluszkiewicz_144130_kolokwium.7.06.csproj.CoreCompileInputs.cache
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\bin\Debug\Wojciech_Paluszkiewicz_144130_kolokwium.7.06.exe.config
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\bin\Debug\Wojciech_Paluszkiewicz_144130_kolokwium.7.06.exe
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\bin\Debug\Wojciech_Paluszkiewicz_144130_kolokwium.7.06.pdb
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\obj\Debug\Wojciech_Paluszkiewicz_144130_kolokwium.7.06.exe
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\obj\Debug\Wojciech_Paluszkiewicz_144130_kolokwium.7.06.pdb
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\obj\Debug\Wojciech_Paluszkiewicz_144130_kolokwium._7._06.Form2.resources
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\obj\Debug\Wojciech_Paluszkiewicz_144130_kolokwium._7._06.Form3.resources
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Politechnika_4sem\Informatyka\Wojciech_Paluszkiewicz_144130_kolokwium.7.06\obj\Debug\Wojciech_Paluszkiewicz_144130_kolokwium.7.06.csproj.CopyComplete
