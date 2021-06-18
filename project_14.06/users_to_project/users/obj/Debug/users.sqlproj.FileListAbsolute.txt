@@ -1,0 +1,10 @@
+C:\Infa_C#\users_to_project\users\bin\Debug\users.dacpac
+C:\Infa_C#\users_to_project\users\bin\Debug\users.dll
+C:\Infa_C#\users_to_project\users\bin\Debug\users.pdb
+C:\Infa_C#\users_to_project\users\obj\Debug\users.sqlprojAssemblyReference.cache
+C:\Infa_C#\users_to_project\users\obj\Debug\users.dll
+C:\Infa_C#\users_to_project\users\obj\Debug\users.pdb
+C:\Infa_C#\users_to_project\users\obj\Debug\Model.xml
+C:\Infa_C#\users_to_project\users\obj\Debug\refactor.xml
+C:\Infa_C#\users_to_project\users\obj\Debug\postdeploy.sql
+C:\Infa_C#\users_to_project\users\obj\Debug\predeploy.sql
